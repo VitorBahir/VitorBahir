@@ -4,29 +4,9 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpps://www.instagram.com/vbahir/)
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorbahir&show_icons=true&theme=tokyonight&hide=contribs,prs"
-  media="(prefers-color-scheme: tokyonight)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorbahir&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
-/>
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=vitorbahir&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-</picture>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorbahir&show_icons=true&theme=tokyonight&hide=contribs,prs"
-  media="(prefers-color-scheme: tokyonight)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorbahir&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
-/>
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbahir&layout=compact&theme=tokyonight" />
-</picture>
+![VitorBahir's Stats](https://github-readme-stats.vercel.app/api?username=VitorBahir&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![VitorBahir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorBahir&theme=vue-dark&hide_border=true)
+![VitorBahir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBahir&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </br>
 </br>
